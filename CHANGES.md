@@ -1,6 +1,6 @@
 # Version history of the RCWA package
 
-## Changes between RCWA 4.9.0 and RCWA 4.10.0 (, ):
+## Changes between RCWA 4.9.0 and RCWA 4.10.0 (July 30, 2026):
 
   - An operation `ClassTranspositionConjugationBall` has been added,
     together with a method for rcwa groups over Z.
